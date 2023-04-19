@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<connectdelay value="5000"/>
+<servers/>
+<associations>
+	<name value="Assco"/>
+	<association name="Assco" assoctype="CLIENT" hostAddress="127.0.0.1" hostPort="8889" peerAddress="127.0.0.1" peerPort="5896" ipChannelType="0" extraHostAddresseSize="0"/>
+</associations>
